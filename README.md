@@ -22,8 +22,9 @@ The player must quickly react to randomly generated paths before time runs out. 
 ### Gameplay
 
 ![Gameplay](screenshots/Screenshot1.png)
+![Gameplay](screenshots/Screenshot2.png)
+![Gameplay](screenshots/Screenshot3.png)
 
-> More screenshots will be added soon.
 
 ---
 
